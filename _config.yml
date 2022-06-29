@@ -9,7 +9,7 @@ url: https://greencloud.guru
 twitter_username: GreenCloudGuru
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
