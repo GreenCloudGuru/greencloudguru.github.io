@@ -15,6 +15,10 @@ p {
     font-weight: 400;
 }
 
+a {
+    color: #009D7C;
+}
+
 footer {
     margin-top: 1em;
     font-family: 'Poppins', sans-serif;
